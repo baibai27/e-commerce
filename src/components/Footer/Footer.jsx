@@ -42,11 +42,11 @@ const Footer = () => {
       <div className="bottom">
         <div className="left">
           <span className="logo">GuiizeStore</span>
-          <span className="copyright">Copyright</span>
+          <span className="copyright">&#169;</span>
         </div>
         <div className="right">
           <img
-            src="https://store-cdn.arduino.cc/uni/wysiwyg/Payment_Options.jpg"
+            src="https://help.zazzle.com/hc/article_attachments/360010513393/Logos-01.png"
             width={400}
             height={50}
             alt=""
