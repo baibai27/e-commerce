@@ -51,7 +51,7 @@ const Category = () => {
                 alt=""
               />
               <button>
-                <Link to={`/product/1`} className="link">
+                <Link to={`/product/2`} className="link">
                   MEN
                 </Link>
               </button>
